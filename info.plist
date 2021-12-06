@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>max@maxammann.org</string>
+	<key>contactName</key>
+	<string>Max Ammann</string>
+	<key>description</key>
+	<string>Syntax highlighting for WGSL</string>
+	<key>name</key>
+	<string>WGSL</string>
+	<key>uuid</key>
+	<string>FF4C85FD-F635-42B7-B15D-2CB2242AF54D</string>
+</dict>
+</plist>
